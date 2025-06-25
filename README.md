@@ -1,6 +1,6 @@
 ## curso
 
-#psha
+# psha
 
 
 repo del curso
